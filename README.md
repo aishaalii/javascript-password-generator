@@ -1,1 +1,3 @@
-# javascript-password-generator
+# Password Generator
+
+##Challenge
